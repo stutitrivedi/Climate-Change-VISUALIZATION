@@ -1,2 +1,3 @@
 # Climate Change VISUALIZATION
- Global Temperature Trends
+  Global Temperature Trends
+For this project, I explored how land temperatures have changed globally over the past few centuries. I used Python to clean and analyze climate data and created interactive visualizations using Plotly to show trends across seasons, years, and countries. One of my favorite parts was designing a line chart that showed how summer and winter temperatures have changed differently over time — it helped bring the warming trend into focus. I also created a global heatmap by month and year to show patterns in seasonal shifts. I did all of the data prep, code, and visual storytelling myself, and my goal was to make it easier for anyone to understand how climate change has progressed without needing a technical background.
